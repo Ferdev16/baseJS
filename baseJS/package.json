@@ -1,0 +1,15 @@
+{
+  "type": "Commonjs",
+  "name": "basejs",
+  "version": "1.0.0",
+  "description": "Conversor de bases en js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FerDev",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
